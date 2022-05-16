@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1652651679 source:c:\users\luis veloz\desktop\estructura de datos\sobrecarga de operadores 1.2\main.cpp
+	<iostream>
+	<iomanip>
+	"Vector.h"
+
+1652651546 source:c:\users\luis veloz\desktop\estructura de datos\sobrecarga de operadores 1.2\vector.cpp
+	<iostream>
+	<iomanip>
+	"Vector.h"
+
+1652650777 c:\users\luis veloz\desktop\estructura de datos\sobrecarga de operadores 1.2\vector.h
+	<iostream>
+	<iomanip>
+
+1652662824 source:e:\semestre virtual\estructura de datos\proyecto code\sobrecarga de operadores 1.2\main.cpp
+	<iostream>
+	<iomanip>
+	"Vector.h"
+
+1652650777 e:\semestre virtual\estructura de datos\proyecto code\sobrecarga de operadores 1.2\vector.h
+	<iostream>
+	<iomanip>
+
+1652651734 source:e:\semestre virtual\estructura de datos\proyecto code\sobrecarga de operadores 1.2\vector.cpp
+	<iostream>
+	<iomanip>
+	"Vector.h"
+
